@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-## ¡‡„-ÂÔÓÚ 
-- Ecxel Ú‡·ÎËˆ‡ Ò ·‡„-ÂÔÓÚ‡ÏË ÔÓ [Û˜Â·ÌÓÏÛ ÔÓÂÍÚÛ](https://github.com/EgorNarozhny/educational/tree/main/educational_project_1) Ò ÍÛÒ‡ ÔÓ ÚÂÒÚËÓ‚‡ÌË˛
-
-- —Ò˚ÎÍ‡ Ì‡ „Û„Î Ú‡·ÎËˆÛ https://docs.google.com/spreadsheets/d/1SedpNn3ksRc_ayuCfk13KxJXtG1SE30a50ujMX1lEpY/edit?gid=0#gid=0
-=======
 ## –ë–∞–≥-—Ä–µ–ø–æ—Ä—Ç 
-Ecxel —Ç–∞–±–ª–∏—Ü–∞ —Å –±–∞–≥-—Ä–µ–ø–æ—Ä—Ç–∞–º–∏ –ø–æ [—É—á–µ–±–Ω–æ–º—É –ø—Ä–æ–µ–∫—Ç—É](https://github.com/EgorNarozhny/educational/tree/main/educational_project_1) —Å –∫—É—Ä—Å–∞ –ø–æ —Ç–µ—Å—Ç–∏—Ä–æ–≤–∞–Ω–∏—é
->>>>>>> e54ca2baebe798e476f6f2b1213ed8ea4bc47b3b
+- Ecxel —Ç–∞–±–ª–∏—Ü–∞ —Å –±–∞–≥-—Ä–µ–ø–æ—Ä—Ç–∞–º–∏ –ø–æ [—É—á–µ–±–Ω–æ–º—É –ø—Ä–æ–µ–∫—Ç—É](https://github.com/EgorNarozhny/educational/tree/main/educational_project_1) —Å –∫—É—Ä—Å–∞ –ø–æ —Ç–µ—Å—Ç–∏—Ä–æ–≤–∞–Ω–∏—é
+
+- –°—Å—ã–ª–∫–∞ –Ω–∞ –≥—É–≥–ª —Ç–∞–±–ª–∏—Ü—É https://docs.google.com/spreadsheets/d/1SedpNn3ksRc_ayuCfk13KxJXtG1SE30a50ujMX1lEpY/edit?gid=0#gid=0

@@ -1,2 +1,2 @@
-## Баг-репорт 
- Ecxel таблица с баг-репортами по [учебному проекту](https://github.com/EgorNarozhny/educational/tree/main/educational_project_1) с курса по тестированию
+## Р‘Р°Рі-СЂРµРїРѕСЂС‚ 
+Ecxel С‚Р°Р±Р»РёС†Р° СЃ Р±Р°Рі-СЂРµРїРѕСЂС‚Р°РјРё РїРѕ [СѓС‡РµР±РЅРѕРјСѓ РїСЂРѕРµРєС‚Сѓ](https://github.com/EgorNarozhny/educational/tree/main/educational_project_1) СЃ РєСѓСЂСЃР° РїРѕ С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЋ
